@@ -126,7 +126,8 @@ This creates a system where:
 ClusterFix is designed not only to simulate incident resolution, but to **measure improvement over time**.
 
 The system’s performance is tracked through reward and loss metrics across training iterations.
-
+![Reward Graph](ss1.jpeg)
+![loss Graph](ss2.jpeg)
 These curves demonstrate:
 
 * Improved decision quality
